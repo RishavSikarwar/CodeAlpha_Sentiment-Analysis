@@ -1,0 +1,301 @@
+review_id,product,review_date,rating,review_text,true_label
+REV0001,Air Fryer,2024-11-29,3,"It's a Air Fryer, works as described, no major complaints.",neutral
+REV0002,Wireless Earbuds,2024-07-06,4,"I'm impressed with this Wireless Earbuds, highly recommend it to everyone.",positive
+REV0003,Backpack,2024-01-20,4,"I'm impressed with this Backpack, highly recommend it to everyone.",positive
+REV0004,Wireless Earbuds,2024-02-16,4,Absolutely love this Wireless Earbuds! Works perfectly and exceeded my expectations.,positive
+REV0005,Backpack,2024-04-24,4,Fantastic Backpack! Battery life and performance are outstanding.,positive
+REV0006,Backpack,2024-10-26,3,"The Backpack matches the description, decent for the price.",neutral
+REV0007,Running Shoes,2024-10-12,4,"Great Running Shoes, very happy with the quality and fast delivery.",positive
+REV0008,Smartwatch,2024-10-19,4,"Great Smartwatch, very happy with the quality and fast delivery.",positive
+REV0009,Air Fryer,2024-02-22,1,"Worst Air Fryer I've ever bought, completely useless.",negative
+REV0010,Backpack,2024-02-19,2,"Waste of money, this Backpack broke within a week.",negative
+REV0011,Backpack,2024-11-12,1,The Backpack arrived damaged and the return process was a nightmare.,negative
+REV0012,Smartwatch,2024-06-09,5,"I'm impressed with this Smartwatch, highly recommend it to everyone.",positive
+REV0013,Running Shoes,2024-06-02,2,"I hate this Running Shoes, customer service was no help either.",negative
+REV0014,Smartwatch,2024-02-11,1,"Worst Smartwatch I've ever bought, completely useless.",negative
+REV0015,Backpack,2024-08-17,5,Excellent build quality and the Backpack performs really well.,positive
+REV0016,Air Fryer,2024-09-19,1,"Terrible Air Fryer, stopped working after two days. Very disappointed.",negative
+REV0017,Running Shoes,2024-09-07,4,"This Running Shoes is amazing, best purchase I've made this year.",positive
+REV0018,Running Shoes,2024-10-12,4,"Super comfortable and reliable Running Shoes, worth every penny.",positive
+REV0019,Backpack,2024-06-23,2,"Disappointed with this Backpack, it feels cheap and flimsy.",negative
+REV0020,Air Fryer,2024-02-05,2,The Air Fryer arrived damaged and the return process was a nightmare.,negative
+REV0021,Wireless Earbuds,2024-12-22,3,"It's a Wireless Earbuds, works as described, no major complaints.",neutral
+REV0022,Wireless Earbuds,2024-11-27,5,"Super comfortable and reliable Wireless Earbuds, worth every penny.",positive
+REV0023,Backpack,2024-05-25,3,"It's a Backpack, works as described, no major complaints.",neutral
+REV0024,Running Shoes,2024-01-12,3,"This Running Shoes is average, similar to other ones I've used.",neutral
+REV0025,Running Shoes,2024-09-09,4,"I'm impressed with this Running Shoes, highly recommend it to everyone.",positive
+REV0026,Wireless Earbuds,2024-05-06,4,"This Wireless Earbuds is amazing, best purchase I've made this year.",positive
+REV0027,Running Shoes,2024-02-11,5,Fantastic Running Shoes! Battery life and performance are outstanding.,positive
+REV0028,Smartwatch,2024-03-11,5,"I'm impressed with this Smartwatch, highly recommend it to everyone.",positive
+REV0029,Running Shoes,2024-12-27,3,"This Running Shoes is average, similar to other ones I've used.",neutral
+REV0030,Running Shoes,2024-07-13,3,"Functional Running Shoes, but the design could be improved.",neutral
+REV0031,Smartwatch,2024-04-28,4,"Great Smartwatch, very happy with the quality and fast delivery.",positive
+REV0032,Smartwatch,2024-05-14,4,Fantastic Smartwatch! Battery life and performance are outstanding.,positive
+REV0033,Air Fryer,2024-11-08,5,Excellent build quality and the Air Fryer performs really well.,positive
+REV0034,Backpack,2024-08-21,4,"Great Backpack, very happy with the quality and fast delivery.",positive
+REV0035,Backpack,2024-02-23,5,Excellent build quality and the Backpack performs really well.,positive
+REV0036,Running Shoes,2024-02-04,1,"Terrible Running Shoes, stopped working after two days. Very disappointed.",negative
+REV0037,Smartwatch,2024-11-03,5,Absolutely love this Smartwatch! Works perfectly and exceeded my expectations.,positive
+REV0038,Wireless Earbuds,2024-10-01,4,"I'm impressed with this Wireless Earbuds, highly recommend it to everyone.",positive
+REV0039,Wireless Earbuds,2024-01-14,3,"The Wireless Earbuds matches the description, decent for the price.",neutral
+REV0040,Wireless Earbuds,2024-07-11,3,"The Wireless Earbuds matches the description, decent for the price.",neutral
+REV0041,Smartwatch,2024-08-30,2,"Poor quality Smartwatch, not what I expected at all.",negative
+REV0042,Wireless Earbuds,2024-09-02,5,Excellent build quality and the Wireless Earbuds performs really well.,positive
+REV0043,Running Shoes,2024-06-24,4,"Great Running Shoes, very happy with the quality and fast delivery.",positive
+REV0044,Air Fryer,2024-09-21,4,"Super comfortable and reliable Air Fryer, worth every penny.",positive
+REV0045,Wireless Earbuds,2024-03-16,5,"I'm impressed with this Wireless Earbuds, highly recommend it to everyone.",positive
+REV0046,Backpack,2024-06-01,3,"The Backpack matches the description, decent for the price.",neutral
+REV0047,Wireless Earbuds,2024-03-26,2,"Poor quality Wireless Earbuds, not what I expected at all.",negative
+REV0048,Air Fryer,2024-11-21,2,The Air Fryer arrived damaged and the return process was a nightmare.,negative
+REV0049,Smartwatch,2024-05-02,1,"Disappointed with this Smartwatch, it feels cheap and flimsy.",negative
+REV0050,Running Shoes,2024-09-22,1,"Waste of money, this Running Shoes broke within a week.",negative
+REV0051,Running Shoes,2024-05-23,4,Absolutely love this Running Shoes! Works perfectly and exceeded my expectations.,positive
+REV0052,Running Shoes,2024-08-16,5,"Super comfortable and reliable Running Shoes, worth every penny.",positive
+REV0053,Air Fryer,2024-02-11,3,"This Air Fryer is average, similar to other ones I've used.",neutral
+REV0054,Smartwatch,2024-06-21,4,Excellent build quality and the Smartwatch performs really well.,positive
+REV0055,Smartwatch,2024-09-02,4,"I'm impressed with this Smartwatch, highly recommend it to everyone.",positive
+REV0056,Air Fryer,2024-07-17,1,"Terrible Air Fryer, stopped working after two days. Very disappointed.",negative
+REV0057,Smartwatch,2024-11-21,5,"Great Smartwatch, very happy with the quality and fast delivery.",positive
+REV0058,Air Fryer,2024-08-25,5,"Super comfortable and reliable Air Fryer, worth every penny.",positive
+REV0059,Running Shoes,2024-03-28,1,"Terrible Running Shoes, stopped working after two days. Very disappointed.",negative
+REV0060,Smartwatch,2024-12-01,5,"I'm impressed with this Smartwatch, highly recommend it to everyone.",positive
+REV0061,Smartwatch,2024-12-02,2,The Smartwatch arrived damaged and the return process was a nightmare.,negative
+REV0062,Air Fryer,2024-01-11,4,"I'm impressed with this Air Fryer, highly recommend it to everyone.",positive
+REV0063,Wireless Earbuds,2024-09-26,1,"Worst Wireless Earbuds I've ever bought, completely useless.",negative
+REV0064,Smartwatch,2024-04-18,4,Fantastic Smartwatch! Battery life and performance are outstanding.,positive
+REV0065,Wireless Earbuds,2024-10-27,4,"This Wireless Earbuds is amazing, best purchase I've made this year.",positive
+REV0066,Air Fryer,2024-02-01,4,Excellent build quality and the Air Fryer performs really well.,positive
+REV0067,Air Fryer,2024-10-25,3,"Functional Air Fryer, but the design could be improved.",neutral
+REV0068,Backpack,2024-09-29,4,"I'm impressed with this Backpack, highly recommend it to everyone.",positive
+REV0069,Smartwatch,2024-04-03,2,"Terrible Smartwatch, stopped working after two days. Very disappointed.",negative
+REV0070,Backpack,2024-03-29,4,Fantastic Backpack! Battery life and performance are outstanding.,positive
+REV0071,Smartwatch,2024-10-11,4,"Super comfortable and reliable Smartwatch, worth every penny.",positive
+REV0072,Wireless Earbuds,2024-02-24,5,"I'm impressed with this Wireless Earbuds, highly recommend it to everyone.",positive
+REV0073,Backpack,2024-01-22,5,"Great Backpack, very happy with the quality and fast delivery.",positive
+REV0074,Wireless Earbuds,2024-02-02,1,The Wireless Earbuds arrived damaged and the return process was a nightmare.,negative
+REV0075,Running Shoes,2024-12-20,4,"I'm impressed with this Running Shoes, highly recommend it to everyone.",positive
+REV0076,Air Fryer,2024-09-16,5,"I'm impressed with this Air Fryer, highly recommend it to everyone.",positive
+REV0077,Smartwatch,2024-08-17,1,"Poor quality Smartwatch, not what I expected at all.",negative
+REV0078,Smartwatch,2024-06-10,5,Excellent build quality and the Smartwatch performs really well.,positive
+REV0079,Wireless Earbuds,2024-04-18,1,"I hate this Wireless Earbuds, customer service was no help either.",negative
+REV0080,Air Fryer,2024-11-25,1,"Disappointed with this Air Fryer, it feels cheap and flimsy.",negative
+REV0081,Air Fryer,2024-04-22,5,"Great Air Fryer, very happy with the quality and fast delivery.",positive
+REV0082,Wireless Earbuds,2024-12-07,4,Excellent build quality and the Wireless Earbuds performs really well.,positive
+REV0083,Smartwatch,2024-06-22,5,Excellent build quality and the Smartwatch performs really well.,positive
+REV0084,Running Shoes,2024-07-06,4,"This Running Shoes is amazing, best purchase I've made this year.",positive
+REV0085,Wireless Earbuds,2024-12-26,5,Excellent build quality and the Wireless Earbuds performs really well.,positive
+REV0086,Wireless Earbuds,2024-09-19,5,"I'm impressed with this Wireless Earbuds, highly recommend it to everyone.",positive
+REV0087,Wireless Earbuds,2024-02-23,4,Fantastic Wireless Earbuds! Battery life and performance are outstanding.,positive
+REV0088,Wireless Earbuds,2024-05-18,4,Absolutely love this Wireless Earbuds! Works perfectly and exceeded my expectations.,positive
+REV0089,Smartwatch,2024-05-12,3,"Functional Smartwatch, but the design could be improved.",neutral
+REV0090,Running Shoes,2024-12-24,5,"I'm impressed with this Running Shoes, highly recommend it to everyone.",positive
+REV0091,Air Fryer,2024-08-05,4,Absolutely love this Air Fryer! Works perfectly and exceeded my expectations.,positive
+REV0092,Wireless Earbuds,2024-05-13,4,Absolutely love this Wireless Earbuds! Works perfectly and exceeded my expectations.,positive
+REV0093,Wireless Earbuds,2024-05-15,1,"Waste of money, this Wireless Earbuds broke within a week.",negative
+REV0094,Wireless Earbuds,2024-05-17,5,"This Wireless Earbuds is amazing, best purchase I've made this year.",positive
+REV0095,Backpack,2024-02-26,4,"I'm impressed with this Backpack, highly recommend it to everyone.",positive
+REV0096,Smartwatch,2024-06-08,4,"Great Smartwatch, very happy with the quality and fast delivery.",positive
+REV0097,Air Fryer,2024-08-16,2,"Waste of money, this Air Fryer broke within a week.",negative
+REV0098,Backpack,2024-01-10,2,"Poor quality Backpack, not what I expected at all.",negative
+REV0099,Air Fryer,2024-09-20,4,Absolutely love this Air Fryer! Works perfectly and exceeded my expectations.,positive
+REV0100,Running Shoes,2024-12-03,4,Excellent build quality and the Running Shoes performs really well.,positive
+REV0101,Running Shoes,2024-09-16,2,The Running Shoes arrived damaged and the return process was a nightmare.,negative
+REV0102,Air Fryer,2024-04-11,2,"Waste of money, this Air Fryer broke within a week.",negative
+REV0103,Smartwatch,2024-03-07,4,"This Smartwatch is amazing, best purchase I've made this year.",positive
+REV0104,Wireless Earbuds,2024-08-08,5,"Super comfortable and reliable Wireless Earbuds, worth every penny.",positive
+REV0105,Smartwatch,2024-09-16,5,"Super comfortable and reliable Smartwatch, worth every penny.",positive
+REV0106,Air Fryer,2024-01-24,2,"Worst Air Fryer I've ever bought, completely useless.",negative
+REV0107,Running Shoes,2024-01-02,5,"This Running Shoes is amazing, best purchase I've made this year.",positive
+REV0108,Air Fryer,2024-05-05,5,"This Air Fryer is amazing, best purchase I've made this year.",positive
+REV0109,Wireless Earbuds,2024-04-21,3,"This Wireless Earbuds is average, similar to other ones I've used.",neutral
+REV0110,Air Fryer,2024-02-12,5,"This Air Fryer is amazing, best purchase I've made this year.",positive
+REV0111,Running Shoes,2024-05-07,4,"Super comfortable and reliable Running Shoes, worth every penny.",positive
+REV0112,Backpack,2024-02-15,2,"Terrible Backpack, stopped working after two days. Very disappointed.",negative
+REV0113,Smartwatch,2024-01-12,5,Absolutely love this Smartwatch! Works perfectly and exceeded my expectations.,positive
+REV0114,Air Fryer,2024-10-26,4,"Great Air Fryer, very happy with the quality and fast delivery.",positive
+REV0115,Backpack,2024-12-02,3,"Received the Backpack on time, packaging was standard.",neutral
+REV0116,Backpack,2024-03-17,5,"This Backpack is amazing, best purchase I've made this year.",positive
+REV0117,Air Fryer,2024-01-23,1,"Worst Air Fryer I've ever bought, completely useless.",negative
+REV0118,Backpack,2024-09-25,1,"Worst Backpack I've ever bought, completely useless.",negative
+REV0119,Backpack,2024-12-17,1,"Disappointed with this Backpack, it feels cheap and flimsy.",negative
+REV0120,Backpack,2024-02-13,1,"Worst Backpack I've ever bought, completely useless.",negative
+REV0121,Wireless Earbuds,2024-02-23,5,"Super comfortable and reliable Wireless Earbuds, worth every penny.",positive
+REV0122,Running Shoes,2024-01-26,3,"The Running Shoes matches the description, decent for the price.",neutral
+REV0123,Wireless Earbuds,2024-09-07,1,"Worst Wireless Earbuds I've ever bought, completely useless.",negative
+REV0124,Air Fryer,2024-09-14,4,Fantastic Air Fryer! Battery life and performance are outstanding.,positive
+REV0125,Backpack,2024-08-30,4,"I'm impressed with this Backpack, highly recommend it to everyone.",positive
+REV0126,Air Fryer,2024-04-30,3,"This Air Fryer is average, similar to other ones I've used.",neutral
+REV0127,Smartwatch,2024-09-09,5,"Super comfortable and reliable Smartwatch, worth every penny.",positive
+REV0128,Running Shoes,2024-01-24,5,"Super comfortable and reliable Running Shoes, worth every penny.",positive
+REV0129,Backpack,2024-11-03,1,"Waste of money, this Backpack broke within a week.",negative
+REV0130,Smartwatch,2024-11-14,5,"Super comfortable and reliable Smartwatch, worth every penny.",positive
+REV0131,Backpack,2024-09-05,4,Excellent build quality and the Backpack performs really well.,positive
+REV0132,Air Fryer,2024-12-20,3,"The Air Fryer is okay, does what it says but nothing special.",neutral
+REV0133,Smartwatch,2024-08-25,2,"Poor quality Smartwatch, not what I expected at all.",negative
+REV0134,Running Shoes,2024-06-08,4,Absolutely love this Running Shoes! Works perfectly and exceeded my expectations.,positive
+REV0135,Wireless Earbuds,2024-05-28,3,"The Wireless Earbuds is okay, does what it says but nothing special.",neutral
+REV0136,Running Shoes,2024-05-17,5,"I'm impressed with this Running Shoes, highly recommend it to everyone.",positive
+REV0137,Running Shoes,2024-10-24,4,"Great Running Shoes, very happy with the quality and fast delivery.",positive
+REV0138,Wireless Earbuds,2024-07-03,5,"I'm impressed with this Wireless Earbuds, highly recommend it to everyone.",positive
+REV0139,Smartwatch,2024-02-27,2,"Worst Smartwatch I've ever bought, completely useless.",negative
+REV0140,Air Fryer,2024-01-13,5,Excellent build quality and the Air Fryer performs really well.,positive
+REV0141,Smartwatch,2024-07-26,5,Excellent build quality and the Smartwatch performs really well.,positive
+REV0142,Air Fryer,2024-07-11,2,"I hate this Air Fryer, customer service was no help either.",negative
+REV0143,Air Fryer,2024-06-15,4,"This Air Fryer is amazing, best purchase I've made this year.",positive
+REV0144,Air Fryer,2024-04-10,3,"The Air Fryer is okay, does what it says but nothing special.",neutral
+REV0145,Wireless Earbuds,2024-05-09,3,"This Wireless Earbuds is average, similar to other ones I've used.",neutral
+REV0146,Air Fryer,2024-07-03,4,Excellent build quality and the Air Fryer performs really well.,positive
+REV0147,Running Shoes,2024-05-23,1,"Disappointed with this Running Shoes, it feels cheap and flimsy.",negative
+REV0148,Wireless Earbuds,2024-11-21,5,"Super comfortable and reliable Wireless Earbuds, worth every penny.",positive
+REV0149,Smartwatch,2024-09-18,5,"This Smartwatch is amazing, best purchase I've made this year.",positive
+REV0150,Air Fryer,2024-01-15,5,"This Air Fryer is amazing, best purchase I've made this year.",positive
+REV0151,Running Shoes,2024-10-08,3,"The Running Shoes matches the description, decent for the price.",neutral
+REV0152,Smartwatch,2024-08-18,2,"Terrible Smartwatch, stopped working after two days. Very disappointed.",negative
+REV0153,Backpack,2024-09-05,2,"Worst Backpack I've ever bought, completely useless.",negative
+REV0154,Wireless Earbuds,2024-03-06,3,"The Wireless Earbuds matches the description, decent for the price.",neutral
+REV0155,Smartwatch,2024-06-01,5,"This Smartwatch is amazing, best purchase I've made this year.",positive
+REV0156,Air Fryer,2024-07-26,2,"Worst Air Fryer I've ever bought, completely useless.",negative
+REV0157,Smartwatch,2024-03-02,5,"I'm impressed with this Smartwatch, highly recommend it to everyone.",positive
+REV0158,Smartwatch,2024-09-13,1,"Terrible Smartwatch, stopped working after two days. Very disappointed.",negative
+REV0159,Running Shoes,2024-08-18,2,"I hate this Running Shoes, customer service was no help either.",negative
+REV0160,Running Shoes,2024-02-16,4,"Great Running Shoes, very happy with the quality and fast delivery.",positive
+REV0161,Smartwatch,2024-05-02,5,Absolutely love this Smartwatch! Works perfectly and exceeded my expectations.,positive
+REV0162,Air Fryer,2024-01-11,4,"I'm impressed with this Air Fryer, highly recommend it to everyone.",positive
+REV0163,Running Shoes,2024-07-11,4,"Super comfortable and reliable Running Shoes, worth every penny.",positive
+REV0164,Air Fryer,2024-05-22,5,Absolutely love this Air Fryer! Works perfectly and exceeded my expectations.,positive
+REV0165,Backpack,2024-12-17,3,"Received the Backpack on time, packaging was standard.",neutral
+REV0166,Backpack,2024-02-17,1,"Disappointed with this Backpack, it feels cheap and flimsy.",negative
+REV0167,Air Fryer,2024-07-23,3,"It's a Air Fryer, works as described, no major complaints.",neutral
+REV0168,Running Shoes,2024-03-06,4,"This Running Shoes is amazing, best purchase I've made this year.",positive
+REV0169,Wireless Earbuds,2024-10-27,5,Fantastic Wireless Earbuds! Battery life and performance are outstanding.,positive
+REV0170,Running Shoes,2024-08-17,5,Excellent build quality and the Running Shoes performs really well.,positive
+REV0171,Smartwatch,2024-03-18,1,"Waste of money, this Smartwatch broke within a week.",negative
+REV0172,Backpack,2024-12-24,3,"The Backpack is okay, does what it says but nothing special.",neutral
+REV0173,Running Shoes,2024-01-01,4,Fantastic Running Shoes! Battery life and performance are outstanding.,positive
+REV0174,Smartwatch,2024-03-06,5,Absolutely love this Smartwatch! Works perfectly and exceeded my expectations.,positive
+REV0175,Air Fryer,2024-02-20,1,"I hate this Air Fryer, customer service was no help either.",negative
+REV0176,Wireless Earbuds,2024-07-17,4,"I'm impressed with this Wireless Earbuds, highly recommend it to everyone.",positive
+REV0177,Air Fryer,2024-01-06,4,"I'm impressed with this Air Fryer, highly recommend it to everyone.",positive
+REV0178,Backpack,2024-06-10,5,Excellent build quality and the Backpack performs really well.,positive
+REV0179,Smartwatch,2024-01-15,4,"Great Smartwatch, very happy with the quality and fast delivery.",positive
+REV0180,Running Shoes,2024-01-12,1,"Poor quality Running Shoes, not what I expected at all.",negative
+REV0181,Smartwatch,2024-02-11,5,"Super comfortable and reliable Smartwatch, worth every penny.",positive
+REV0182,Air Fryer,2024-04-26,5,Excellent build quality and the Air Fryer performs really well.,positive
+REV0183,Running Shoes,2024-07-04,5,"This Running Shoes is amazing, best purchase I've made this year.",positive
+REV0184,Running Shoes,2024-09-15,5,Fantastic Running Shoes! Battery life and performance are outstanding.,positive
+REV0185,Wireless Earbuds,2024-04-09,5,"Great Wireless Earbuds, very happy with the quality and fast delivery.",positive
+REV0186,Smartwatch,2024-02-25,5,"This Smartwatch is amazing, best purchase I've made this year.",positive
+REV0187,Backpack,2024-09-05,4,"Great Backpack, very happy with the quality and fast delivery.",positive
+REV0188,Running Shoes,2024-10-31,3,"The Running Shoes is okay, does what it says but nothing special.",neutral
+REV0189,Smartwatch,2024-04-19,3,"The Smartwatch is okay, does what it says but nothing special.",neutral
+REV0190,Wireless Earbuds,2024-07-31,3,"Received the Wireless Earbuds on time, packaging was standard.",neutral
+REV0191,Wireless Earbuds,2024-08-18,2,"Waste of money, this Wireless Earbuds broke within a week.",negative
+REV0192,Air Fryer,2024-06-17,1,"Terrible Air Fryer, stopped working after two days. Very disappointed.",negative
+REV0193,Smartwatch,2024-01-17,5,"I'm impressed with this Smartwatch, highly recommend it to everyone.",positive
+REV0194,Air Fryer,2024-06-18,2,"I hate this Air Fryer, customer service was no help either.",negative
+REV0195,Running Shoes,2024-05-23,4,Absolutely love this Running Shoes! Works perfectly and exceeded my expectations.,positive
+REV0196,Wireless Earbuds,2024-07-13,4,Absolutely love this Wireless Earbuds! Works perfectly and exceeded my expectations.,positive
+REV0197,Air Fryer,2024-02-14,2,"Poor quality Air Fryer, not what I expected at all.",negative
+REV0198,Wireless Earbuds,2024-10-04,2,"Waste of money, this Wireless Earbuds broke within a week.",negative
+REV0199,Running Shoes,2024-01-16,5,"This Running Shoes is amazing, best purchase I've made this year.",positive
+REV0200,Running Shoes,2024-01-21,5,"Super comfortable and reliable Running Shoes, worth every penny.",positive
+REV0201,Running Shoes,2024-05-11,4,Absolutely love this Running Shoes! Works perfectly and exceeded my expectations.,positive
+REV0202,Smartwatch,2024-07-04,2,The Smartwatch arrived damaged and the return process was a nightmare.,negative
+REV0203,Air Fryer,2024-05-14,4,"I'm impressed with this Air Fryer, highly recommend it to everyone.",positive
+REV0204,Air Fryer,2024-01-02,3,"This Air Fryer is average, similar to other ones I've used.",neutral
+REV0205,Backpack,2024-02-03,3,"Functional Backpack, but the design could be improved.",neutral
+REV0206,Wireless Earbuds,2024-08-31,3,"The Wireless Earbuds is okay, does what it says but nothing special.",neutral
+REV0207,Running Shoes,2024-05-08,3,"It's a Running Shoes, works as described, no major complaints.",neutral
+REV0208,Running Shoes,2024-09-11,3,"Received the Running Shoes on time, packaging was standard.",neutral
+REV0209,Smartwatch,2024-12-20,5,"Super comfortable and reliable Smartwatch, worth every penny.",positive
+REV0210,Smartwatch,2024-08-23,2,"Poor quality Smartwatch, not what I expected at all.",negative
+REV0211,Air Fryer,2024-09-19,1,The Air Fryer arrived damaged and the return process was a nightmare.,negative
+REV0212,Smartwatch,2024-07-27,4,"Great Smartwatch, very happy with the quality and fast delivery.",positive
+REV0213,Wireless Earbuds,2024-03-23,2,"I hate this Wireless Earbuds, customer service was no help either.",negative
+REV0214,Running Shoes,2024-05-15,3,"The Running Shoes is okay, does what it says but nothing special.",neutral
+REV0215,Backpack,2024-09-12,5,Absolutely love this Backpack! Works perfectly and exceeded my expectations.,positive
+REV0216,Running Shoes,2024-08-23,5,"Great Running Shoes, very happy with the quality and fast delivery.",positive
+REV0217,Backpack,2024-10-02,3,"Received the Backpack on time, packaging was standard.",neutral
+REV0218,Wireless Earbuds,2024-05-23,2,"Poor quality Wireless Earbuds, not what I expected at all.",negative
+REV0219,Backpack,2024-04-11,5,"This Backpack is amazing, best purchase I've made this year.",positive
+REV0220,Running Shoes,2024-03-19,4,"Great Running Shoes, very happy with the quality and fast delivery.",positive
+REV0221,Air Fryer,2024-04-06,3,"The Air Fryer matches the description, decent for the price.",neutral
+REV0222,Air Fryer,2024-09-16,4,"This Air Fryer is amazing, best purchase I've made this year.",positive
+REV0223,Backpack,2024-11-30,4,Fantastic Backpack! Battery life and performance are outstanding.,positive
+REV0224,Running Shoes,2024-01-03,3,"The Running Shoes is okay, does what it says but nothing special.",neutral
+REV0225,Running Shoes,2024-08-17,3,"Received the Running Shoes on time, packaging was standard.",neutral
+REV0226,Air Fryer,2024-03-02,4,"This Air Fryer is amazing, best purchase I've made this year.",positive
+REV0227,Wireless Earbuds,2024-02-08,4,Fantastic Wireless Earbuds! Battery life and performance are outstanding.,positive
+REV0228,Air Fryer,2024-11-04,2,"Waste of money, this Air Fryer broke within a week.",negative
+REV0229,Air Fryer,2024-02-24,1,"Worst Air Fryer I've ever bought, completely useless.",negative
+REV0230,Backpack,2024-01-20,1,"Poor quality Backpack, not what I expected at all.",negative
+REV0231,Air Fryer,2024-05-10,4,Absolutely love this Air Fryer! Works perfectly and exceeded my expectations.,positive
+REV0232,Wireless Earbuds,2024-01-06,1,"Worst Wireless Earbuds I've ever bought, completely useless.",negative
+REV0233,Air Fryer,2024-11-13,4,"This Air Fryer is amazing, best purchase I've made this year.",positive
+REV0234,Air Fryer,2024-10-07,5,Absolutely love this Air Fryer! Works perfectly and exceeded my expectations.,positive
+REV0235,Running Shoes,2024-12-05,5,Absolutely love this Running Shoes! Works perfectly and exceeded my expectations.,positive
+REV0236,Backpack,2024-11-30,4,"I'm impressed with this Backpack, highly recommend it to everyone.",positive
+REV0237,Smartwatch,2024-05-25,5,"This Smartwatch is amazing, best purchase I've made this year.",positive
+REV0238,Air Fryer,2024-10-17,5,Absolutely love this Air Fryer! Works perfectly and exceeded my expectations.,positive
+REV0239,Air Fryer,2024-11-25,5,Absolutely love this Air Fryer! Works perfectly and exceeded my expectations.,positive
+REV0240,Smartwatch,2024-01-04,4,Excellent build quality and the Smartwatch performs really well.,positive
+REV0241,Running Shoes,2024-02-28,3,"It's a Running Shoes, works as described, no major complaints.",neutral
+REV0242,Wireless Earbuds,2024-03-24,5,"This Wireless Earbuds is amazing, best purchase I've made this year.",positive
+REV0243,Smartwatch,2024-11-24,4,"I'm impressed with this Smartwatch, highly recommend it to everyone.",positive
+REV0244,Running Shoes,2024-09-15,5,"I'm impressed with this Running Shoes, highly recommend it to everyone.",positive
+REV0245,Smartwatch,2024-09-23,4,"This Smartwatch is amazing, best purchase I've made this year.",positive
+REV0246,Smartwatch,2024-07-15,3,"The Smartwatch is okay, does what it says but nothing special.",neutral
+REV0247,Running Shoes,2024-06-03,1,"Disappointed with this Running Shoes, it feels cheap and flimsy.",negative
+REV0248,Smartwatch,2024-09-04,3,"The Smartwatch is okay, does what it says but nothing special.",neutral
+REV0249,Air Fryer,2024-02-14,5,"Super comfortable and reliable Air Fryer, worth every penny.",positive
+REV0250,Backpack,2024-11-13,1,"Waste of money, this Backpack broke within a week.",negative
+REV0251,Running Shoes,2024-04-03,2,"Waste of money, this Running Shoes broke within a week.",negative
+REV0252,Backpack,2024-07-15,4,Excellent build quality and the Backpack performs really well.,positive
+REV0253,Air Fryer,2024-01-22,4,"Great Air Fryer, very happy with the quality and fast delivery.",positive
+REV0254,Backpack,2024-01-20,3,"Functional Backpack, but the design could be improved.",neutral
+REV0255,Air Fryer,2024-10-08,5,"I'm impressed with this Air Fryer, highly recommend it to everyone.",positive
+REV0256,Air Fryer,2024-08-05,1,"Poor quality Air Fryer, not what I expected at all.",negative
+REV0257,Running Shoes,2024-04-01,2,"I hate this Running Shoes, customer service was no help either.",negative
+REV0258,Wireless Earbuds,2024-04-30,5,Excellent build quality and the Wireless Earbuds performs really well.,positive
+REV0259,Running Shoes,2024-04-01,2,"Disappointed with this Running Shoes, it feels cheap and flimsy.",negative
+REV0260,Running Shoes,2024-07-02,4,Absolutely love this Running Shoes! Works perfectly and exceeded my expectations.,positive
+REV0261,Running Shoes,2024-09-15,5,Fantastic Running Shoes! Battery life and performance are outstanding.,positive
+REV0262,Backpack,2024-02-12,1,"Terrible Backpack, stopped working after two days. Very disappointed.",negative
+REV0263,Air Fryer,2024-01-28,1,The Air Fryer arrived damaged and the return process was a nightmare.,negative
+REV0264,Backpack,2024-03-10,3,"Functional Backpack, but the design could be improved.",neutral
+REV0265,Wireless Earbuds,2024-12-20,3,"The Wireless Earbuds matches the description, decent for the price.",neutral
+REV0266,Wireless Earbuds,2024-03-25,5,Excellent build quality and the Wireless Earbuds performs really well.,positive
+REV0267,Smartwatch,2024-03-22,5,"This Smartwatch is amazing, best purchase I've made this year.",positive
+REV0268,Air Fryer,2024-08-21,3,"This Air Fryer is average, similar to other ones I've used.",neutral
+REV0269,Smartwatch,2024-10-30,4,Excellent build quality and the Smartwatch performs really well.,positive
+REV0270,Air Fryer,2024-07-09,2,"Waste of money, this Air Fryer broke within a week.",negative
+REV0271,Wireless Earbuds,2024-11-21,4,Excellent build quality and the Wireless Earbuds performs really well.,positive
+REV0272,Air Fryer,2024-05-15,1,"I hate this Air Fryer, customer service was no help either.",negative
+REV0273,Wireless Earbuds,2024-08-19,2,"Terrible Wireless Earbuds, stopped working after two days. Very disappointed.",negative
+REV0274,Backpack,2024-05-09,1,"Worst Backpack I've ever bought, completely useless.",negative
+REV0275,Backpack,2024-05-15,2,"I hate this Backpack, customer service was no help either.",negative
+REV0276,Running Shoes,2024-03-15,3,"The Running Shoes matches the description, decent for the price.",neutral
+REV0277,Air Fryer,2024-04-27,5,Absolutely love this Air Fryer! Works perfectly and exceeded my expectations.,positive
+REV0278,Smartwatch,2024-09-21,2,"Terrible Smartwatch, stopped working after two days. Very disappointed.",negative
+REV0279,Air Fryer,2024-01-01,5,Fantastic Air Fryer! Battery life and performance are outstanding.,positive
+REV0280,Wireless Earbuds,2024-08-01,5,"This Wireless Earbuds is amazing, best purchase I've made this year.",positive
+REV0281,Backpack,2024-09-07,4,Absolutely love this Backpack! Works perfectly and exceeded my expectations.,positive
+REV0282,Smartwatch,2024-01-28,1,"Terrible Smartwatch, stopped working after two days. Very disappointed.",negative
+REV0283,Wireless Earbuds,2024-09-24,1,"Poor quality Wireless Earbuds, not what I expected at all.",negative
+REV0284,Air Fryer,2024-10-28,2,"I hate this Air Fryer, customer service was no help either.",negative
+REV0285,Smartwatch,2024-03-22,5,"I'm impressed with this Smartwatch, highly recommend it to everyone.",positive
+REV0286,Smartwatch,2024-12-28,4,Fantastic Smartwatch! Battery life and performance are outstanding.,positive
+REV0287,Smartwatch,2024-12-06,4,Absolutely love this Smartwatch! Works perfectly and exceeded my expectations.,positive
+REV0288,Air Fryer,2024-01-29,4,"This Air Fryer is amazing, best purchase I've made this year.",positive
+REV0289,Backpack,2024-11-26,3,"The Backpack matches the description, decent for the price.",neutral
+REV0290,Backpack,2024-05-07,5,"I'm impressed with this Backpack, highly recommend it to everyone.",positive
+REV0291,Smartwatch,2024-02-01,3,"The Smartwatch is okay, does what it says but nothing special.",neutral
+REV0292,Backpack,2024-03-22,4,"Great Backpack, very happy with the quality and fast delivery.",positive
+REV0293,Wireless Earbuds,2024-01-07,3,"The Wireless Earbuds is okay, does what it says but nothing special.",neutral
+REV0294,Backpack,2024-07-30,1,"Waste of money, this Backpack broke within a week.",negative
+REV0295,Smartwatch,2024-11-09,2,"Worst Smartwatch I've ever bought, completely useless.",negative
+REV0296,Smartwatch,2024-11-16,2,"Terrible Smartwatch, stopped working after two days. Very disappointed.",negative
+REV0297,Wireless Earbuds,2024-09-01,3,"Functional Wireless Earbuds, but the design could be improved.",neutral
+REV0298,Backpack,2024-08-26,5,Fantastic Backpack! Battery life and performance are outstanding.,positive
+REV0299,Wireless Earbuds,2024-04-25,1,"I hate this Wireless Earbuds, customer service was no help either.",negative
+REV0300,Wireless Earbuds,2024-03-04,4,"Super comfortable and reliable Wireless Earbuds, worth every penny.",positive
