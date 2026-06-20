@@ -1,4 +1,4 @@
-# Task 4: Sentiment Analysis — Product Review Classifier
+# Task : Sentiment Analysis — Product Review Classifier
 
 ## Topic
 Analyze product review text and classify it as **Positive**, **Negative**,
@@ -6,7 +6,7 @@ or **Neutral** using NLP lexicon-based sentiment scoring (VADER).
 
 ## Folder Structure
 ```
-task4-sentiment-analysis/
+task-sentiment-analysis/
 ├── generate_dataset.py     -> Creates a realistic sample reviews dataset
 ├── analyze_sentiment.py    -> Runs VADER sentiment analysis + builds charts
 ├── data/
